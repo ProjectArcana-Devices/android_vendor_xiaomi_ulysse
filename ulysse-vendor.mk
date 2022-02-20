@@ -434,8 +434,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ulysse/proprietary/vendor/lib/libmmcamera_pdafcamif.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_pdafcamif.so \
     vendor/xiaomi/ulysse/proprietary/vendor/lib/libmmcamera_ppbase_module.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_ppbase_module.so \
     vendor/xiaomi/ulysse/proprietary/vendor/lib/libmmcamera_ppeiscore.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_ppeiscore.so \
-    vendor/xiaomi/ulysse/proprietary/vendor/lib/libmmcamera_qtech_f3l8yam_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_qtech_f3l8yam_eeprom.so \
-    vendor/xiaomi/ulysse/proprietary/vendor/lib/libmmcamera_qtech_f5670bq_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_qtech_f5670bq_eeprom.so \
     vendor/xiaomi/ulysse/proprietary/vendor/lib/libmmcamera_quadracfa.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_quadracfa.so \
     vendor/xiaomi/ulysse/proprietary/vendor/lib/libmmcamera_s5k3l8_ohp0502_d6.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k3l8_ohp0502_d6.so \
     vendor/xiaomi/ulysse/proprietary/vendor/lib/libmmcamera_s5k3l8_ohp0502_ofilm_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k3l8_ohp0502_ofilm_eeprom.so \
